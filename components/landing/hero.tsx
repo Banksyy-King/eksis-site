@@ -1,10 +1,15 @@
 "use client";
 
 import { motion } from "framer-motion";
+import type { DownloadInfo } from "@/lib/download";
 import { Badge } from "./badge";
-import { WindowsIcon } from "./icons";
+import { DownloadButton } from "./download-button";
 
-export function Hero() {
+type HeroProps = {
+  downloadInfo: DownloadInfo;
+};
+
+export function Hero({ downloadInfo }: HeroProps) {
   return (
     <section className="relative flex min-h-[90vh] flex-col items-center justify-center px-6 pt-24 pb-16 text-center">
       <motion.div
@@ -40,16 +45,7 @@ export function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.55 }}
       >
-        <motion.a
-          href="#"
-          className="group relative inline-flex items-center gap-3 overflow-hidden rounded-2xl bg-gradient-to-r from-purple-600 to-violet-600 px-10 py-5 text-lg font-semibold text-white shadow-lg shadow-purple-500/25 transition-shadow hover:shadow-purple-500/40"
-          whileHover={{ scale: 1.03 }}
-          whileTap={{ scale: 0.98 }}
-        >
-          <span className="absolute inset-0 bg-gradient-to-r from-purple-400/0 via-white/10 to-purple-400/0 opacity-0 transition-opacity group-hover:opacity-100" />
-          <WindowsIcon className="relative h-6 w-6" />
-          <span className="relative">Windows Alpha İndir</span>
-        </motion.a>
+        <DownloadButton downloadInfo={downloadInfo} />
       </motion.div>
 
       <motion.div
