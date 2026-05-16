@@ -1,15 +1,10 @@
 "use client";
 
 import { motion } from "framer-motion";
-import type { DownloadInfo } from "@/lib/download";
 import { Badge } from "./badge";
 import { DownloadButton } from "./download-button";
 
-type HeroProps = {
-  downloadInfo: DownloadInfo;
-};
-
-export function Hero({ downloadInfo }: HeroProps) {
+export function Hero() {
   return (
     <section className="relative flex min-h-[90vh] flex-col items-center justify-center px-6 pt-24 pb-16 text-center">
       <motion.div
@@ -45,7 +40,7 @@ export function Hero({ downloadInfo }: HeroProps) {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.55 }}
       >
-        <DownloadButton downloadInfo={downloadInfo} />
+        <DownloadButton />
       </motion.div>
 
       <motion.div
