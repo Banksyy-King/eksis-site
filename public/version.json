@@ -1,6 +1,7 @@
 {
-  "version": "0.1.1",
+  "version": "1.0.1",
+  "build": 2,
   "mandatory": false,
-  "notes": "Updater sistemi aktif edildi",
-  "download": "https://eksis-site.vercel.app/downloads/eksis-0.1.1.zip"
+  "notes": "Kapalı alfa düzeltmeleri",
+  "download": "https://eksis-site.vercel.app/downloads/eksis-1.0.1.zip"
 }
