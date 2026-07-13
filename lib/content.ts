@@ -26,10 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Otomatik güncellemelerde SHA-256 bütünlük doğrulaması",
-  "Güncelleme bildirimi görünürlük düzeltmesi",
-  "Ayarlar > Diğer bölümünde uygulama sürümü gösterimi",
+  "Mesajlaşma düzeltmesi: gönderilen mesajlar artık kaybolmuyor",
+  "Etkinlik durumu yenilendi: yalnızca bilinen oyun ve platformlar, varsayılan kapalı",
+  "Gizlilik: Ayarlar > Veri ve Gizlilik'te etkinlik paylaşım anahtarı",
+  "Performans: arka plan etkinlik taraması artık işlemci dostu",
   "Stabilite geliştirmeleri",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.4";
+export const changelogVersion = "Alpha 1.0.9";

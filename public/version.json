@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "mandatory":  false,
-    "notes":  "Kucuk iyilestirmeler.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.8.zip",
-    "sha256":  "22a0002c9a2501c30e6e91c61b70ccef185560c857ea87aa007917fca6fe5d14"
+    "notes":  "Mesajlasma duzeltmesi: gonderilen mesajlar artik kaybolmuyor. Etkinlik durumu gizlilik yenilemesi (varsayilan kapali, yalnizca bilinen oyun/platformlar).",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.9.zip",
+    "sha256":  "3fe0183c8c1ecd1a6f93d695e947e00d1f8a13f74086401059de315012969c6b"
 }
