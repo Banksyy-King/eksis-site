@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "mandatory":  false,
-    "notes":  "Otomatik güncelleme artık indirilen paketi SHA-256 ile doğruluyor; ayrıca küçük iyileştirmeler.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.2.zip",
-    "sha256":  "27690772217d06b77a5722bf959bec87b0d877de19c02dcebe1f374451cbc097"
+    "notes":  "Guncelleme diyalogu duzeltildi; Ayarlar \u003e Diger bolumune uygulama surumu eklendi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.3.zip",
+    "sha256":  "803fd4714e85c000569cb22c68ab92432bde5235e95aeacda8086bfa03825a7b"
 }
