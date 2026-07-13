@@ -1,8 +1,7 @@
 {
-  "version": "1.0.1",
-  "build": 2,
-  "mandatory": false,
-  "notes": "Kapalı alfa düzeltmeleri",
-  "download": "https://eksis-site.vercel.app/downloads/eksis-1.0.1.zip",
-  "sha256": "d4c8f3a7a3a96d968101a0c7cc8f01f9ccb453849c130ac5ac7da644551e0f00"
+    "version":  "1.0.2",
+    "mandatory":  false,
+    "notes":  "Otomatik güncelleme artık indirilen paketi SHA-256 ile doğruluyor; ayrıca küçük iyileştirmeler.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.2.zip",
+    "sha256":  "27690772217d06b77a5722bf959bec87b0d877de19c02dcebe1f374451cbc097"
 }
