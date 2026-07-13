@@ -26,9 +26,10 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Sunucu keşfet sistemi",
-  "Hesap sistemi iyileştirmeleri",
+  "Otomatik güncellemelerde SHA-256 bütünlük doğrulaması",
+  "Güncelleme bildirimi görünürlük düzeltmesi",
+  "Ayarlar > Diğer bölümünde uygulama sürümü gösterimi",
   "Stabilite geliştirmeleri",
 ] as const;
 
-export const changelogVersion = "Alpha 0.1.3";
+export const changelogVersion = "Alpha 1.0.4";

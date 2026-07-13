@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "mandatory":  false,
-    "notes":  "Guncelleme diyalogu duzeltildi; Ayarlar \u003e Diger bolumune uygulama surumu eklendi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.3.zip",
-    "sha256":  "803fd4714e85c000569cb22c68ab92432bde5235e95aeacda8086bfa03825a7b"
+    "notes":  "Uctan uca guncelleme dogrulama yayini: SHA-256 kontrollu indirme, gorunur surum bilgisi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.4.zip",
+    "sha256":  "4ef5f301f6118499adeda825e3598ad566c41d3fbd90eed7de3b1315f0983e1a"
 }
