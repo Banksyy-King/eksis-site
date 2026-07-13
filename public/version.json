@@ -3,5 +3,6 @@
   "build": 2,
   "mandatory": false,
   "notes": "Kapalı alfa düzeltmeleri",
-  "download": "https://eksis-site.vercel.app/downloads/eksis-1.0.1.zip"
+  "download": "https://eksis-site.vercel.app/downloads/eksis-1.0.1.zip",
+  "sha256": "d4c8f3a7a3a96d968101a0c7cc8f01f9ccb453849c130ac5ac7da644551e0f00"
 }
