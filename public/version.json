@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "mandatory":  false,
-    "notes":  "Guncelleme kurulum butonu icin kalici duzeltme (wscript koprusu).",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.7.zip",
-    "sha256":  "b3f4b84adb4c04f37a1182802dde40a5df4cd3be5257f699ee8c742a1783d04a"
+    "notes":  "Kucuk iyilestirmeler.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.8.zip",
+    "sha256":  "22a0002c9a2501c30e6e91c61b70ccef185560c857ea87aa007917fca6fe5d14"
 }
