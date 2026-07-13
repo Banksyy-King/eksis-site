@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "mandatory":  false,
-    "notes":  "Guncelleme kurulum butonu duzeltildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.5.zip",
-    "sha256":  "25031e0c139c5e639a896d156ab48ffa7ff598c39f55a95d27a55d66b7398411"
+    "notes":  "Kucuk iyilestirmeler ve stabilite.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.6.zip",
+    "sha256":  "3ab940e5112326d18aee44cca1f36035eb5090f85ed7e82f7af43271353bdc9d"
 }
