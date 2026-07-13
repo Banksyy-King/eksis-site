@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "mandatory":  false,
-    "notes":  "Uctan uca guncelleme dogrulama yayini: SHA-256 kontrollu indirme, gorunur surum bilgisi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.4.zip",
-    "sha256":  "4ef5f301f6118499adeda825e3598ad566c41d3fbd90eed7de3b1315f0983e1a"
+    "notes":  "Guncelleme kurulum butonu duzeltildi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.5.zip",
+    "sha256":  "25031e0c139c5e639a896d156ab48ffa7ff598c39f55a95d27a55d66b7398411"
 }
