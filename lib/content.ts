@@ -26,11 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Uygulama içi duyuru paneli: güncellemeleri ve haberleri kaçırma",
-  "Arkadaş araması artık büyük/küçük harfe duyarsız",
-  "Aramalar düzeltildi: gelen aramalar artık karşı tarafta çalıyor",
-  "Kayıt sırasında kimlik çakışması mesajı daha açıklayıcı",
-  "Stabilite geliştirmeleri",
+  "Sunucu sahibi sunucusunu silebilir (şifre onaylı)",
+  "Yeni sunucu oluşturma: açıklama ve özel simge (PNG) desteği",
+  "Ana ekran yenilendi: etkileşimli kartlar, en büyük 3 sunucu herkese açık",
+  "Çökme telemetrisi etkin: hatalar artık otomatik raporlanıyor",
+  "Sahte/işlevsiz ekranlar kaldırıldı",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.11";
+export const changelogVersion = "Alpha 1.0.12";

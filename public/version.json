@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "mandatory":  false,
-    "notes":  "Uygulama ici duyuru paneli eklendi. Arkadas aramasi buyuk/kucuk harfe duyarsiz. Gelen aramalar duzeltildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.11.zip",
-    "sha256":  "ccd593525647b1c087e3cc151bac02f59f44fa9178d80f1f1e691fe0a38d4d47"
+    "notes":  "Sunucu sahibi sunucusunu silebilir (sifre onayli). Yeni sunucu olusturma: aciklama ve ozel PNG simge. Ana ekran yenilendi, en buyuk 3 sunucu herkese acik. Cokme telemetrisi etkin. Sahte/islevsiz ekranlar kaldirildi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.12.zip",
+    "sha256":  "8cf65c9695ae360dd95bf7d5a57fea13b1467dc02c47792376f4934e6b16cab1"
 }
