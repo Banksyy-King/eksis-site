@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "mandatory":  false,
-    "notes":  "Sunucu sahibi sunucusunu silebilir (sifre onayli). Yeni sunucu olusturma: aciklama ve ozel PNG simge. Ana ekran yenilendi, en buyuk 3 sunucu herkese acik. Cokme telemetrisi etkin. Sahte/islevsiz ekranlar kaldirildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.12.zip",
-    "sha256":  "8cf65c9695ae360dd95bf7d5a57fea13b1467dc02c47792376f4934e6b16cab1"
+    "notes":  "Kullanici engelleme sistemi: DM, arkadaslik ve aramayi cift yonlu kapatir; Hesap Ayarlari\u0027nda engellenenler listesi. 8 kademeli sunucu rank sistemi ve rank sahne gorselleri (sunucu buyudukce sehirlesir). Arkadas satirinda uc nokta menusu.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.13.zip",
+    "sha256":  "2706fe58ac39591c1ef7b8129bc196c1f34ee3213f013febb1c0a1a4fb6339d7"
 }

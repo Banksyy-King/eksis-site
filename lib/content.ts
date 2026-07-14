@@ -26,11 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Sunucu sahibi sunucusunu silebilir (şifre onaylı)",
-  "Yeni sunucu oluşturma: açıklama ve özel simge (PNG) desteği",
-  "Ana ekran yenilendi: etkileşimli kartlar, en büyük 3 sunucu herkese açık",
-  "Çökme telemetrisi etkin: hatalar artık otomatik raporlanıyor",
-  "Sahte/işlevsiz ekranlar kaldırıldı",
+  "Kullanıcı engelleme: DM, arkadaşlık ve aramayı çift yönlü kapatır",
+  "Engellenenler listesi ve engel kaldırma (Hesap Ayarları)",
+  "8 kademeli sunucu rank sistemi: Arkadaş Grubu'ndan Eksis'e",
+  "Rank'e özel sahne görselleri (sunucu büyüdükçe şehirleşir)",
+  "Arkadaş satırında üç nokta menüsü (engelle / arkadaşlıktan çıkar)",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.12";
+export const changelogVersion = "Alpha 1.0.13";
