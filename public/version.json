@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.13",
+    "version":  "1.0.14",
     "mandatory":  false,
-    "notes":  "Kullanici engelleme sistemi: DM, arkadaslik ve aramayi cift yonlu kapatir; Hesap Ayarlari\u0027nda engellenenler listesi. 8 kademeli sunucu rank sistemi ve rank sahne gorselleri (sunucu buyudukce sehirlesir). Arkadas satirinda uc nokta menusu.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.13.zip",
-    "sha256":  "2706fe58ac39591c1ef7b8129bc196c1f34ee3213f013febb1c0a1a4fb6339d7"
+    "notes":  "Mesajlarda okundu bilgisi: Gonderildi, Iletildi ve Goruldu durumlari. Gonderilemeyen mesaj icin dokun-ve-tekrar-dene. Sohbet basligi sadelestirildi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.14.zip",
+    "sha256":  "ee58f50e56e613807a5b45a89520f1818f0ef3de05297c1d84d6bac0c1e559ab"
 }
