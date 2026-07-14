@@ -26,11 +26,9 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Mesajlaşma düzeltmesi: gönderilen mesajlar artık kaybolmuyor",
-  "Etkinlik durumu yenilendi: yalnızca bilinen oyun ve platformlar, varsayılan kapalı",
-  "Gizlilik: Ayarlar > Veri ve Gizlilik'te etkinlik paylaşım anahtarı",
-  "Performans: arka plan etkinlik taraması artık işlemci dostu",
+  "Kısa TAG'li kullanıcılara arkadaşlık isteği gönderilebiliyor",
+  "Sesli oda kimlik senkronu ve mikrofon başlatma düzeltmesi",
   "Stabilite geliştirmeleri",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.9";
+export const changelogVersion = "Alpha 1.0.10";

@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "mandatory":  false,
-    "notes":  "Mesajlasma duzeltmesi: gonderilen mesajlar artik kaybolmuyor. Etkinlik durumu gizlilik yenilemesi (varsayilan kapali, yalnizca bilinen oyun/platformlar).",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.9.zip",
-    "sha256":  "3fe0183c8c1ecd1a6f93d695e947e00d1f8a13f74086401059de315012969c6b"
+    "notes":  "Kisa TAG\u0027li kullanicilara arkadaslik istegi gonderilebiliyor; sesli oda kimlik senkronu ve mikrofon baslatma duzeltmesi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.10.zip",
+    "sha256":  "0506defd048756c5ba114f63ffb5d77f97ae7921a6116f76aedd67090a16159f"
 }
