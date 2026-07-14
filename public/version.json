@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "mandatory":  false,
-    "notes":  "Kisa TAG\u0027li kullanicilara arkadaslik istegi gonderilebiliyor; sesli oda kimlik senkronu ve mikrofon baslatma duzeltmesi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.10.zip",
-    "sha256":  "0506defd048756c5ba114f63ffb5d77f97ae7921a6116f76aedd67090a16159f"
+    "notes":  "Uygulama ici duyuru paneli eklendi. Arkadas aramasi buyuk/kucuk harfe duyarsiz. Gelen aramalar duzeltildi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.11.zip",
+    "sha256":  "ccd593525647b1c087e3cc151bac02f59f44fa9178d80f1f1e691fe0a38d4d47"
 }

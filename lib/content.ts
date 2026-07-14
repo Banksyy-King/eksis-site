@@ -26,9 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Kısa TAG'li kullanıcılara arkadaşlık isteği gönderilebiliyor",
-  "Sesli oda kimlik senkronu ve mikrofon başlatma düzeltmesi",
+  "Uygulama içi duyuru paneli: güncellemeleri ve haberleri kaçırma",
+  "Arkadaş araması artık büyük/küçük harfe duyarsız",
+  "Aramalar düzeltildi: gelen aramalar artık karşı tarafta çalıyor",
+  "Kayıt sırasında kimlik çakışması mesajı daha açıklayıcı",
   "Stabilite geliştirmeleri",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.10";
+export const changelogVersion = "Alpha 1.0.11";
