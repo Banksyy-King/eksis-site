@@ -26,11 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Büyük kararlılık ve performans sprinti",
-  "Ses/arama kapanışı iyileştirildi (mikrofon ve kaynak sızıntısı giderildi)",
-  "Sunucu üye listesi büyük sunucularda çok daha hızlı",
-  "Hesap ve kimlik işlemleri daha güvenilir",
-  "Kanal güvenliği sıkılaştırıldı",
+  "Sohbet geçmişi artık en yeni mesajları güvenilir gösteriyor",
+  "Sunucu sahipliği devredilebiliyor",
+  "Katılım isteği onay/red sistemi (özel sunucular için)",
+  "Sesli arama güvenliği: yalnızca arkadaşlar, spam koruması",
+  "Kararlılık iyileştirmeleri",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.15";
+export const changelogVersion = "Alpha 1.0.16";

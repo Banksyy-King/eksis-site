@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.15",
+    "version":  "1.0.16",
     "mandatory":  false,
-    "notes":  "Buyuk kararlilik ve performans sprinti: ses/arama kapanisi (mikrofon ve kaynak sizintisi giderildi), sunucu uye listesi buyuk sunucularda cok daha hizli, hesap/kimlik islemleri daha guvenilir, kanal guvenligi sikilastirildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.15.zip",
-    "sha256":  "6cad02a081b6e4f5fb0de98329a999bd56adbf3a089170a3a1e18752329c0787"
+    "notes":  "Sohbet gecmisi artik en yeni mesajlari guvenilir gosteriyor. Sunucu sahipligi devredilebiliyor. Katilim istegi onay/red sistemi. Sesli arama guvenligi: yalnizca arkadaslar ve spam korumasi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.16.zip",
+    "sha256":  "b4267e7d020c8b7e049eea29cc909f42240ef5d61d8c18b9f6beb51a14b23c40"
 }

@@ -1,4 +1,4 @@
-export const DOWNLOAD_FILE_NAME = "Eksis-Setup-v1.0.15-alpha.exe" as const;
+export const DOWNLOAD_FILE_NAME = "Eksis-Setup-v1.0.16-alpha.exe" as const;
 export const DOWNLOAD_HREF = `/${DOWNLOAD_FILE_NAME}` as const;
 export const DOWNLOAD_SIZE_LABEL = "64 MB" as const;
 
