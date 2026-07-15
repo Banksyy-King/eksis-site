@@ -26,11 +26,11 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Mesajlarda okundu bilgisi: Gönderildi · İletildi · Görüldü",
-  "Gönderilemeyen mesaj için dokun-ve-tekrar-dene",
-  "Sohbet başlığı sadeleştirildi",
-  "Kullanıcı engelleme ve 8 kademeli sunucu rank sistemi (1.0.13)",
-  "Kararlılık ve performans iyileştirmeleri",
+  "Büyük kararlılık ve performans sprinti",
+  "Ses/arama kapanışı iyileştirildi (mikrofon ve kaynak sızıntısı giderildi)",
+  "Sunucu üye listesi büyük sunucularda çok daha hızlı",
+  "Hesap ve kimlik işlemleri daha güvenilir",
+  "Kanal güvenliği sıkılaştırıldı",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.14";
+export const changelogVersion = "Alpha 1.0.15";

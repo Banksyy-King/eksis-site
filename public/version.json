@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.14",
+    "version":  "1.0.15",
     "mandatory":  false,
-    "notes":  "Mesajlarda okundu bilgisi: Gonderildi, Iletildi ve Goruldu durumlari. Gonderilemeyen mesaj icin dokun-ve-tekrar-dene. Sohbet basligi sadelestirildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.14.zip",
-    "sha256":  "ee58f50e56e613807a5b45a89520f1818f0ef3de05297c1d84d6bac0c1e559ab"
+    "notes":  "Buyuk kararlilik ve performans sprinti: ses/arama kapanisi (mikrofon ve kaynak sizintisi giderildi), sunucu uye listesi buyuk sunucularda cok daha hizli, hesap/kimlik islemleri daha guvenilir, kanal guvenligi sikilastirildi.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.15.zip",
+    "sha256":  "6cad02a081b6e4f5fb0de98329a999bd56adbf3a089170a3a1e18752329c0787"
 }
