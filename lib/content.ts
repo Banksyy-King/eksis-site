@@ -26,11 +26,9 @@ export const features = [
 ] as const;
 
 export const changelog = [
-  "Sesli sohbet güvenliği önemli ölçüde güçlendirildi",
-  "Mesaj gönderiminde çift-mesaj koruması (idempotency)",
-  "Sunucu mesajları artık güvenli backend üzerinden",
-  "Kapsamlı istek sınırlama (spam/kötüye kullanım koruması)",
-  "Kimlik doğrulama ve gönderici bütünlüğü sıkılaştırıldı",
+  "Mesaj gönderimi belirgin şekilde hızlandırıldı",
+  "Onay bildirimleri artık çok daha çabuk geliyor",
+  "Güvenlik ve kararlılık iyileştirmeleri (1.0.17)",
 ] as const;
 
-export const changelogVersion = "Alpha 1.0.17";
+export const changelogVersion = "Alpha 1.0.18";

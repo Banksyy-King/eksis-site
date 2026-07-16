@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.17",
+    "version":  "1.0.18",
     "mandatory":  false,
-    "notes":  "Sesli sohbet guvenligi guclendirildi. Cift-mesaj korumasi (idempotency). Sunucu mesajlari guvenli backend uzerinden. Kapsamli istek sinirlama (spam korumasi). Kimlik ve gonderici butunlugu sikilastirildi.",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.17.zip",
-    "sha256":  "90213c3ab72810bb469968b0cc21b9b26880eb9f437e5ae3859d3779ede9b31d"
+    "notes":  "Mesaj gonderimi belirgin sekilde hizlandirildi; onay bildirimleri artik cok daha cabuk geliyor (cold start isitma).",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.18.zip",
+    "sha256":  "ef488815485266f0d853f1d6ee3513b8fdb2404884aa32fff9f31e8c49b0f700"
 }
