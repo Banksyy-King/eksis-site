@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.18",
-    "mandatory":  false,
-    "notes":  "Mesaj gonderimi belirgin sekilde hizlandirildi; onay bildirimleri artik cok daha cabuk geliyor (cold start isitma).",
-    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.18.zip",
-    "sha256":  "ef488815485266f0d853f1d6ee3513b8fdb2404884aa32fff9f31e8c49b0f700"
+    "version":  "1.0.19",
+    "mandatory":  true,
+    "notes":  "Guvenlik guncellemesi (zorunlu). Yenilikler: Sunucu arama geldi, sunucuları isimle bulup katılabilirsin. Kayıt artık yarıda kalsa bile arkada bozuk profil bırakmıyor. Hesap silme baştan yazıldı: yarıda kalırsa kaldığı yerden devam ediyor, mesajların Silinmiş Kullanıcı adına anonimleştiriliyor. Sunucu fotoğrafları sunucuda doğrulanıp 512x512 boyutuna çevriliyor. Çevrimiçi durumu artık gerçeği gösteriyor: uygulaması donan veya kapanan biri çevrimdışı görünüyor. Bu sürüm zorunludur, eski sürümler artık sunucuya bağlanamıyor.",
+    "download":  "https://eksis-site.vercel.app/downloads/eksis-1.0.19.zip",
+    "sha256":  "07508f5e24f30dd79672040a7b350095c9e29c22823f74ea64cb0077d8da36d0"
 }
